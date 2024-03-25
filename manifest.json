@@ -3,7 +3,7 @@
   "short_name": "HindiMadhyam",
   "icons": [
     {
-      "src": "icon-512x512.png",
+      "src": "https://raw.githubusercontent.com/jambiebs/manifesto/main/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
